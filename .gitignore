@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# Generated reports
+*_intelligence_report.pdf
+*_intelligence_report.html
+*_intelligence_report.txt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log 

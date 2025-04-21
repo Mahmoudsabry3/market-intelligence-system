@@ -1,0 +1,9 @@
+requests>=2.25.0
+openai>=0.27.0
+yfinance>=0.1.70
+tweepy>=4.10.0
+praw>=7.6.0
+markdown2>=2.4.0
+pdfkit>=1.0.0
+jinja2>=3.0.0
+beautifulsoup4>=4.9.0 
