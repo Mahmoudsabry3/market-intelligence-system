@@ -1350,7 +1350,7 @@ if __name__ == "__main__":
     query = accept_query()
     
     # Option 2: Use a predefined sample query
-    # query = "Generate a strategy intelligence report for the electric vehicle market and its key players."
+    query = "Generate a strategy intelligence report for the electric vehicle market and its key players."
     
     # Process the query through the multi-agent system
     report = process_query(query)
