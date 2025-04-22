@@ -20,6 +20,8 @@ Each agent performs a specialized function in the pipeline:
 2. **Data Collection Agent**: Gathers relevant market data from multiple sources.
 3. **Data Analysis Agent**: Processes and analyzes the collected data to generate insights.
 4. **Report Generation Agent**: Creates a formatted report based on the analyzed data.
+   ![Editor _ Mermaid Chart-2025-04-22-110700](https://github.com/user-attachments/assets/4016a8c6-89c8-4e6c-b640-ce1ca8fdb07b)
+
 
 ## 3. Detailed Component Documentation
 
@@ -320,6 +322,8 @@ report = process_query(query)
 # Print or display the report
 print(report)
 ```
+![image](https://github.com/user-attachments/assets/2fe21405-deb7-40f1-87ad-63612585ca27)
+
 
 ### Command-Line Usage
 
